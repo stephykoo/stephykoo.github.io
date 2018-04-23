@@ -169,7 +169,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #fff;
     padding-top: 30%;
 }
-/* .isotope-item {
+ .isotope-item {
     z-index: 2;
 }
 .isotope-hidden.isotope-item {
@@ -198,16 +198,16 @@ h1, h2, h3, h4, h5, h6 {
     -ms-transition-property: -ms-transform, opacity;
     -o-transition-property: -o-transform, opacity;
     transition-property: transform, opacity;
-} */
+} 
 /**** disabling Isotope CSS3 transitions ****/
-/*
+
 .isotope.no-transition, .isotope.no-transition .isotope-item, .isotope .isotope-item.no-transition {
     -webkit-transition-duration: 0s;
     -moz-transition-duration: 0s;
     -ms-transition-duration: 0s;
     -o-transition-duration: 0s;
     transition-duration: 0s;
-}*/
+}
 /* ==========================================================================
    Vegas slider
    ========================================================================== */
