@@ -169,7 +169,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #fff;
     padding-top: 30%;
 }
-.isotope-item {
+ .isotope-item {
     z-index: 2;
 }
 .isotope-hidden.isotope-item {
@@ -177,7 +177,7 @@ h1, h2, h3, h4, h5, h6 {
     z-index: 1;
 }
 .isotope, .isotope .isotope-item {
-    /* change duration value to whatever you like */
+    change duration value to whatever you like 
     
     -webkit-transition-duration: 0.8s;
     -moz-transition-duration: 0.8s;
@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
     -ms-transition-property: -ms-transform, opacity;
     -o-transition-property: -o-transform, opacity;
     transition-property: transform, opacity;
-}
+} 
 /**** disabling Isotope CSS3 transitions ****/
 
 .isotope.no-transition, .isotope.no-transition .isotope-item, .isotope .isotope-item.no-transition {
@@ -324,7 +324,6 @@ h1, h2, h3, h4, h5, h6 {
     border: none;
 }
 .btn.btn-default {
-    margin: 40px auto 0;
     background: transparent;
     position: relative;
     color: #fff;
