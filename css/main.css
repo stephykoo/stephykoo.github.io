@@ -402,7 +402,7 @@ label.valid {
     left: 0;
 }
 .percent {
-    display: hidden;
+    display: inline-block;
     line-height: 150px;
     z-index: 2;
 }
