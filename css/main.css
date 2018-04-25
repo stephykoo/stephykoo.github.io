@@ -407,7 +407,7 @@ label.valid {
     z-index: 2;
 }
 .percent:after {
-
+    content: '% Ready!';
     margin-left: 0.1em;
     font-size: .8em;
 }
