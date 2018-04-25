@@ -402,12 +402,12 @@ label.valid {
     left: 0;
 }
 .percent {
-    display: inline-block;
+    display: hidden;
     line-height: 150px;
     z-index: 2;
 }
 .percent:after {
-    content: '%';
+
     margin-left: 0.1em;
     font-size: .8em;
 }
