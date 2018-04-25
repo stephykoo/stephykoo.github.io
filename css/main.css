@@ -409,7 +409,7 @@ label.valid {
 .percent:after {
     content: '% Ready!';
     margin-left: 0.1em;
-    font-size: 20px;
+    font-size: .8em;
 }
 /* ==========================================================================
    Social icons
